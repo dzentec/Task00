@@ -1,12 +1,41 @@
-#bigred {font-size: xx-large; color: red;}
-#smallgreen {font-weight: bold; font-size: 
-    small; color: green;}
-.bluemed {
-    color: blue; font-size: medium; font-weight: bold;
+#bigred {
+    font-size: xx-large;
+    color: red;
 }
-h5 {color: blueviolet;}
-p b {color: rgb(194, 21, 151);font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}
 
-.bluemed b {color: blue;font-size: medium; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+#smallgreen {
+    font-weight: bold;
+    font-size:
+        small;
+    color: green;
+}
 
-q {font-weight: bold; font-size: 25px; color: coral;}
+.bluemed {
+    color: blue;
+    font-size: medium;
+    font-weight: bold;
+}
+
+h5 {
+    color: blueviolet;
+}
+
+p b {
+    color: rgb(194, 21, 151);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.bluemed b {
+    color: blue;
+    font-size: medium;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+q {
+    font-weight: bold;
+    font-size: 25px;
+    color: coral;
+}
+
+a:active {background-color: black; color: burlywood; }
+a:hover {color: darkred; font-weight: bold;}
