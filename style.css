@@ -54,7 +54,7 @@ font-size: 25px;
 color: blue;
 }
 
-.t_font .text_col {
+.t_font.text_col {
     font-size: 25px;
     color: red;
 
