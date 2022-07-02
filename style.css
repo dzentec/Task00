@@ -1,6 +1,6 @@
 #bigred {
     font-size: xx-large;
-    color: rgb(0, 255, 76);
+    color: rgb(255, 0, 55);
 }
 
 #smallgreen {
@@ -41,3 +41,21 @@ a:active {background-color: black; color: burlywood; }
 a:hover {color: darkred; font-weight: bold;}
 
 a:link {color: lightgreen; font-weight: bold;}
+
+.t_font {
+    font: bold; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 25px;
+    color: lightgray;
+}
+
+.text_col {
+font-size: 25px;
+color: blue;
+}
+
+.t_font .text_col {
+    font-size: 25px;
+    color: red;
+
+}
