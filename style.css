@@ -1,6 +1,6 @@
 #bigred {
     font-size: xx-large;
-    color: red;
+    color: rgb(0, 255, 76);
 }
 
 #smallgreen {
@@ -39,3 +39,5 @@ q {
 
 a:active {background-color: black; color: burlywood; }
 a:hover {color: darkred; font-weight: bold;}
+
+a:link {color: lightgreen; font-weight: bold;}
